@@ -1,0 +1,67 @@
+{
+    "manifest_version": 2,
+    "theme": {
+        "images": {
+            "theme_frame": "images/theme_frame.png",
+            "theme_toolbar": "images/theme_toolbar.png",
+            "theme_tab_background": "images/theme_tab_background.png"
+        },
+        "colors": {
+            "frame": [
+                238,
+                232,
+                213
+            ],
+            "toolbar": [
+                253,
+                246,
+                227
+            ],
+            "tab_text": [
+                0,
+                43,
+                54
+            ],
+            "tab_background_text": [
+                0,
+                43,
+                54
+            ],
+            "bookmark_text": [
+                0,
+                43,
+                54
+            ],
+            "ntp_background": [
+                0,
+                43,
+                54
+            ],
+            "ntp_text": [
+                253,
+                246,
+                227
+            ],
+            "button_background": [
+                253,
+                246,
+                227,
+                1
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.53,
+                1,
+                0.11
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    },
+    "name": "Solarized Light",
+    "version": "1",
+    "description": ""
+}
