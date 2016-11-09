@@ -1,2 +1,2 @@
 # chromium-solarized
-Solarized theme for chrome
+solarized theme for chrome
